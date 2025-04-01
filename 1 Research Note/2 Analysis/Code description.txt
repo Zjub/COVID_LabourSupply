@@ -1,0 +1,6 @@
+## This document describes what each of the R files is doing for the construction of the analysis in the Research Note.
+
+0_RDD_initial.R - sdf 
+
+0a_RDD_initial_September.R - XXXX
+
